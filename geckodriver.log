@@ -1,0 +1,44 @@
+1551264455405	geckodriver	INFO	Listening on 127.0.0.1:54072
+1551264458404	mozprofile::profile	INFO	Using profile path C:\Users\SUIYUA~1\AppData\Local\Temp\rust_mozprofile.uQdGGG7MiDHY
+1551264458419	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1551264458564	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54083
+1551264459721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551264459721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551264463581	Marionette	INFO	Listening on port 2828
+[Parent 38480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1551264489747	Marionette	INFO	Stopped listening on port 2828
+[GPU 8072,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552804837242	geckodriver	INFO	Listening on 127.0.0.1:53766
+1552804840249	mozprofile::profile	INFO	Using profile path C:\Users\SUIYUA~1\AppData\Local\Temp\rust_mozprofile.W3flX7cycWKY
+1552804840262	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1552804840373	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53774
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1552804841791	Marionette	INFO	Listening on port 53774
+1552804844022	Marionette	INFO	startBrowser c3219019-9d55-43f0-9a4f-f1804e7445a9
+1552804853252	geckodriver	INFO	Listening on 127.0.0.1:53839
+1552804856233	mozprofile::profile	INFO	Using profile path C:\Users\SUIYUA~1\AppData\Local\Temp\rust_mozprofile.mGFemcI9hYLP
+1552804856243	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1552804856265	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53847
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1552804857464	Marionette	INFO	Listening on port 53847
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1552804859378	Marionette	INFO	startBrowser a1edd30b-5de6-41c1-8463-8b467a19110e
+[Child 4288] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 4288] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x920006,name=PLayerTransaction::Msg_Update) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0xFA0006,name=PTexture::Msg_DestroySync) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0xFA0006,name=PTexture::Msg_DestroySync) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
